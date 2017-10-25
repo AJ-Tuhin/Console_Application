@@ -1,0 +1,2 @@
+19. Write a C# program to compute the sum of two given integers, 
+if two values are equal then return the triple of their sum.
