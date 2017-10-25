@@ -1,0 +1,5 @@
+22. Write a C# program to check if an given integer is within 20 of 100 or 200. 
+Sample Output:
+Input an integer: 
+25 
+False 
