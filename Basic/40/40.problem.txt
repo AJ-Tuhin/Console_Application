@@ -1,0 +1,8 @@
+40. Write a C# program to check the nearest value of 20 of two given integers and return 0 if two numbers are same. Go to the editor
+Test Data:
+Input first integer:
+15 
+Input second integer:
+12 
+Sample Output
+15
