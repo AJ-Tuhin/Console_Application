@@ -1,0 +1,5 @@
+30. Write a C# program to convert a hexadecimal number to decimal number. Go to the editor
+Sample Output:
+Hexadecimal number: 4B0
+Convert to- 
+Decimal number: 1200 
