@@ -1,0 +1,4 @@
+37. Write a C# program to check if "HP" appears at second position in a string and returns the string without "HP". Go to the editor
+Test Data: PHP Tutorial
+Sample Output:
+P Tutorial
