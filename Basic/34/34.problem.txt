@@ -1,0 +1,7 @@
+34. Write a C# program to check if a string starts with a specified word. Go to the editor
+Note: Suppose the sentence starts with "Hello"
+Sample Data: string1 = "Hello how are you?"
+Result: Hello.
+Sample Output:
+Input a string : Hello how are you? 
+True
