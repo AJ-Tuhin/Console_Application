@@ -1,0 +1,6 @@
+35. Write a C# program to check two given numbers where one is less than 100 and other is greater than 200. 
+
+Sample Output:
+Input a first number(<100): 75 
+Input a second number(>100): 250
+True
