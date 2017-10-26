@@ -1,0 +1,4 @@
+27. Write a C# program and compute the sum of the digits of an integer. Go to the editor
+Sample Output:
+Input a number(integer): 12
+Sum of the digits of the said integer: 3 
