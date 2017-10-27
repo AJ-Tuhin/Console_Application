@@ -1,0 +1,2 @@
+10. Write a C# Sharp program that takes two numbers as input and returns true or 
+false when both numbers are even or odd.
