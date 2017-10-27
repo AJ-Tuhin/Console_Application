@@ -1,0 +1,5 @@
+42. Write a C# program to create a new string where the first 4 characters will be in lower case. If the string is less than 4 characters then make the whole string in upper case. Go to the editor
+Test Data:
+Input a string: w3r 
+Sample Output
+W3R
