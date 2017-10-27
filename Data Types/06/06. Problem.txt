@@ -1,0 +1,2 @@
+6. Write a C# Sharp program to display certain values of the function x = y2 + 2y + 1 
+(using integer numbers for y , ranging from -5 to +5).
