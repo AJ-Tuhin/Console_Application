@@ -1,0 +1,8 @@
+24. Write a program in C# Sharp which is a Menu-Driven Program to compute the area of the various geometrical shape.
+
+Test Data : 
+Input your choice : 1 
+Input radius of the circle : 5
+
+Expected Output :
+The area is : 78.500000
