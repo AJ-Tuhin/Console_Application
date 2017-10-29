@@ -1,0 +1,15 @@
+25. Write a program in C# Sharp which is a Menu-Driven Program to perform a simple calculation.
+
+Test Date and Expected Output 
+Enter the first Integer :10 
+Enter the second Integer :2 
+
+Here are the options : 
+1-Addition. 
+2-Substraction. 
+3-Multiplication. 
+4-Division. 
+5-Exit. 
+
+Input your choice :3 
+The Multiplication of 10 and 2 is: 20
