@@ -1,5 +1,5 @@
-16. Write a C# Sharp program to check whether an alphabet is a vowel or consonant.
+15. Write a C# Sharp program to check whether a triangle can be formed by the given value for the angles.
 Test Data : 
-k
+40 55 65
 Expected Output :
-The alphabet is a consonant.
+The triangle is not valid.
