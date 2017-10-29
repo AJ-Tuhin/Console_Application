@@ -1,0 +1,11 @@
+19. Write a program in C# Sharp to accept a grade and declare the equivalent description : 
+Grade	Description
+E	Excellent
+V	Very Good
+G	Good
+A	Average
+F	Fail
+Test Data : 
+Input the grade :a
+Expected Output :
+You have chosen : Average
