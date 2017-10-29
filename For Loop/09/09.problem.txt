@@ -1,0 +1,7 @@
+9. Write a program in C# Sharp to display the pattern like right angle triangle using an asterisk.
+The pattern like :
+
+*
+**
+***
+****
