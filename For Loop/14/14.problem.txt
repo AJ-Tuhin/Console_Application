@@ -1,0 +1,6 @@
+14. Write a program in C# Sharp to make such a pattern like a pyramid with an asterisk. 
+
+   *
+  * * 
+ * * *
+* * * *
