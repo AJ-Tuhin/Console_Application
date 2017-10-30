@@ -1,0 +1,6 @@
+20. Write a program in C# Sharp to display the pattern like pyramid using an asterisk and each row 
+contain an odd number of an asterisks.
+
+  *
+ ***
+*****
