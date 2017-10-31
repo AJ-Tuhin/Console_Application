@@ -1,0 +1,8 @@
+24. Write a program in C# Sharp to find the sum of the series [ x - x^3 + x^5 + ......].
+Test Data : 
+Input the value of x :2 
+Input number of terms : 5
+Expected Output :
+The sum = 0.909347 
+Number of terms = 5 
+The value of x = 2.000000 
