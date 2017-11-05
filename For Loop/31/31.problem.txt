@@ -1,0 +1,11 @@
+31. Write a program in C# Sharp to display the pattern like a diamond.
+
+    * 
+   *** 
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    * 
