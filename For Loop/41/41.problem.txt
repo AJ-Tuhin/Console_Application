@@ -1,0 +1,5 @@
+41. Write a program in C# Sharp to convert a decimal number into binary without using an array.
+Test Data : 
+Enter a number to convert : 25 
+Expected Output :
+The Binary of 25 is 11001.
