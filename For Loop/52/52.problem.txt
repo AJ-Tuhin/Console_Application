@@ -1,0 +1,10 @@
+52. Write a program in C# Sharp to find the Sum of GP series.
+Test Data : 
+Input the first number of the G.P. series: 1 
+Input the number or terms in the G.P. series: 5 
+Input the common ratio of G.P. series: 2
+Expected Output :
+The numbers for the G.P. series: 
+1 2 4 8 16 32 
+The tn terms of G.P. : 16.000000 
+The Sum of the G.P. series : 63.000000 
